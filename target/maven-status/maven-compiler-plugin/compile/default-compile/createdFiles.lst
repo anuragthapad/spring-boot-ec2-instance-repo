@@ -1,0 +1,3 @@
+com\sapient\trg\controller\HelloDocker.class
+com\sapient\trg\app\SpringBootDockerApplication.class
+com\sapient\trg\model\Greeting.class
